@@ -48,7 +48,7 @@ Route::get('codeVerify', [App\Http\Controllers\Login::class, 'codeVerify'])->nam
 Route::get('resetPassword', [App\Http\Controllers\Login::class, 'resetPassword'])->name('resetPassword');
 
 Route::post('/getUserName', [App\Http\Controllers\Register::class, 'getUserNameAjax'])->name('getUserName');
-Route::post('/registers', [App\Http\Controllers\Register::class, 'register'])->name('registers');
+Route::post('/registers', [App\Http\Controllers\Register::class, 'registers'])->name('registers');
 Route::get('/register_sucess', [App\Http\Controllers\Register::class, 'index'])->name('register_sucess');
 
 Route::get('/Index', [App\Http\Controllers\FrontController::class, 'index'])->name('Index');

@@ -48,7 +48,7 @@ class Register extends Controller
     }
 
 
-    public function register(Request $request)
+    public function registers(Request $request)
     {
         try{
             $validation =  Validator::make($request->all(), [

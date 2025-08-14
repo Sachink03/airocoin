@@ -24,8 +24,7 @@
                                     </div>
                                     <h1 class="title-h1 intro-block__title-h1"><span>Airocoin Bring out for you</span>
                                         <span class=title-h1__colored>the best service</span></h1>
-                                    <div class=intro-block__content> Powered by AI, Cortex AI Trading gives a leading
-                                        positions to investors using our automated trading systems. </div>
+                                    <div class=intro-block__content> AiroCoin is a next-generation digital currency designed to make transactions faster, safer, and more accessible to everyone around the globe</div>
                                     <div class=intro-block__footer><a href=auth/signup.html
                                             class="btn btn-success btn-lg btn-xs-block" data-pjax=""><span>Start
                                                 earning</span> <svg width=20 height=20>
@@ -288,7 +287,7 @@
                         <div class=container>
                             <div class="contents-group section-steps__contents-group">
                                 <div class="sub-title color-green contents-group__sub-title"> How to start? </div>
-                                <h2 class="title-h2 contents-group__title-h2"> Just 4 simple strides </h2>
+                                <h2 class="title-h2 contents-group__title-h2"> Just 4 simple Steps</h2>
                             </div>
                             <div class="main-steps-group section-steps__main-steps-group">
                                 <div class=main-steps-group__inner id=js-steps-slider>
@@ -296,9 +295,9 @@
                                         <div class="step-card main-steps-group__step-card">
                                             <div class=step-card__inner>
                                                 <div class="step-widget step-card__step-widget"> Stride 1 </div>
-                                                <div class="title-h4 step-card__title-h4"> Create <br> trading account
+                                                <div class="title-h4 step-card__title-h4"> Create <br> account
                                                 </div>
-                                                <div class=step-card__content> Register trading account on the platform
+                                                <div class=step-card__content> Register account on the platform
                                                     to start any investment activity. </div>
                                             </div>
                                         </div>
@@ -307,10 +306,9 @@
                                         <div class="step-card main-steps-group__step-card">
                                             <div class=step-card__inner>
                                                 <div class="step-widget step-card__step-widget"> Stride 2 </div>
-                                                <div class="title-h4 step-card__title-h4"> Try the DEMO <br> version
+                                                <div class="title-h4 step-card__title-h4"> Invest <br> version
                                                 </div>
-                                                <div class=step-card__content> Get $2,000 to your DEMO account and test
-                                                    your profit dynamics personally. </div>
+                                                <div class=step-card__content> Invest the amount on platform </div>
                                             </div>
                                         </div>
                                     </div>
@@ -318,10 +316,10 @@
                                         <div class="step-card main-steps-group__step-card">
                                             <div class=step-card__inner>
                                                 <div class="step-widget step-card__step-widget"> Stride 3 </div>
-                                                <div class="title-h4 step-card__title-h4"> Make your own <br>
+                                                <div class="title-h4 step-card__title-h4">Deposit on Task <br>
                                                     investment </div>
-                                                <div class=step-card__content> Make investments using any trading bot
-                                                    from the Cortex AI Trading. </div>
+                                                <div class=step-card__content> Make investments using anybot
+                                                    from the AiroCoin AI  </div>
                                             </div>
                                         </div>
                                     </div>
@@ -331,7 +329,7 @@
                                                 <div class="step-widget step-card__step-widget"> Stride 4 </div>
                                                 <div class="title-h4 step-card__title-h4"> Get and <br> withdraw profit
                                                 </div>
-                                                <div class=step-card__content> The Cortex AI Trading. Your confidence in
+                                                <div class=step-card__content> The AiroCoin AI . Your confidence in
                                                     the future and your profits already today. </div>
                                             </div>
                                         </div>
@@ -424,7 +422,7 @@
                                         <div class="sub-title color-green contents-group__sub-title"> Discover more
                                             opportunities </div>
                                         <h2 class="title-h2 contents-group__title-h2"> The limitless possibilities of
-                                            Cortex </h2>
+                                            AiroCoin </h2>
                                         <div class=contents-group__content> Since automatic arbitration trading under
                                             the control of AI is performed out by four bots, you get the opportunity not
                                             only to successfully and profitably invest your own money, but also to
@@ -433,7 +431,7 @@
                                             own investments that work for you 24/7. </div>
                                         <div class=contents-group__footer><a href=auth/signup.html
                                                 class="btn btn-success btn-lg btn-xs-block" data-pjax=""><span>Get
-                                                    Cortex Account</span> <svg width=18 height=16>
+                                                    AiroCoin Account</span> <svg width=18 height=16>
                                                     <use xlink:href=#arrow-right></use>
                                                 </svg></a> </div>
                                     </div>
@@ -604,7 +602,7 @@
                                             strive for. Everyone earns by improving our trading programs. </div>
                                         <div class=contents-group__footer><a href=auth/signup.html
                                                 class="btn btn-success btn-lg  btn-xs-block" data-pjax=""><span>Get
-                                                    Cortex Account</span> <svg width=18 height=16>
+                                                    AiroCoin Account</span> <svg width=18 height=16>
                                                     <use xlink:href=#arrow-right></use>
                                                 </svg></a> </div>
                                     </div>
@@ -1302,7 +1300,7 @@
                                                         Full Investment Platform. <br> Real AI. Real Trades. Real
                                                         Results. </div>
                                                     <div class=media-talk-card__content> In a market that moves by the
-                                                        second, Cortextrade.ai offers more than just automation - it
+                                                        second, AiroCointrade.ai offers more than just automation - it
                                                         delivers an edge. By giving users access to advanced crypto
                                                         trading bots powered by artificial intelligence ... </div>
                                                 </div>
@@ -1323,7 +1321,7 @@
                                                         Full Investment Platform. <br> Real AI. Real Trades. Real
                                                         Results. </div>
                                                     <div class=media-talk-card__content> In a market that moves by the
-                                                        second, Cortextrade.ai offers more than just automation - it
+                                                        second, AiroCointrade.ai offers more than just automation - it
                                                         delivers an edge. By giving users access to advanced crypto
                                                         trading bots powered by artificial intelligence ... </div>
                                                 </div>
@@ -1344,7 +1342,7 @@
                                                         Full Investment Platform. <br> Real AI. Real Trades. Real
                                                         Results. </div>
                                                     <div class=media-talk-card__content> In a market that moves by the
-                                                        second, Cortextrade.ai offers more than just automation - it
+                                                        second, AiroCointrade.ai offers more than just automation - it
                                                         delivers an edge. By giving users access to advanced crypto
                                                         trading bots powered by artificial intelligence ... </div>
                                                 </div>
@@ -1365,7 +1363,7 @@
                                                         Full Investment Platform. <br> Real AI. Real Trades. Real
                                                         Results. </div>
                                                     <div class=media-talk-card__content> In a market that moves by the
-                                                        second, Cortextrade.ai offers more than just automation - it
+                                                        second, AiroCointrade.ai offers more than just automation - it
                                                         delivers an edge. By giving users access to advanced crypto
                                                         trading bots powered by artificial intelligence ... </div>
                                                 </div>
@@ -1386,7 +1384,7 @@
                                                         Full Investment Platform. <br> Real AI. Real Trades. Real
                                                         Results. </div>
                                                     <div class=media-talk-card__content> In a market that moves by the
-                                                        second, Cortextrade.ai offers more than just automation - it
+                                                        second, AiroCointrade.ai offers more than just automation - it
                                                         delivers an edge. By giving users access to advanced crypto
                                                         trading bots powered by artificial intelligence ... </div>
                                                 </div>
@@ -1455,7 +1453,7 @@
                                 </div> <img src=theme/img/webp/section-screen-img.webp alt="Cortex online trading"
                                     class=section-screen__img loading=lazy>
                                 <div class=section-screen__content> Use our software trading platform and build your own
-                                    investment portfolio by adding trading Cortex AI Trading bots and automatically
+                                    investment portfolio by adding trading AiroCoin AI Trading bots and automatically
                                     increasing profit. </div>
                                 <div class=section-screen__footer><a href=auth/signup.html
                                         class="btn btn-success btn-lg btn-xs-block" data-pjax=""><span>Turn on
@@ -2289,9 +2287,9 @@
                                                         </div>
                                                     </div>
                                                     <div class="title-h5 advantage-card__title-h5"> More chances with
-                                                        Cortex Team </div>
+                                                        AiroCoin Team </div>
                                                     <div class=advantage-card__content> The ability to do more is our
-                                                        advantage. If you need more profit, create your own Cortex Team
+                                                        advantage. If you need more profit, create your own AiroCoin Team
                                                         and take advantage of your entrepreneurial spirit and activity
                                                         at the like-minded automatic trading team forming. </div>
                                                 </div>
