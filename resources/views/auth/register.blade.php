@@ -1,192 +1,115 @@
 @include('layouts.mainsite.header')
 
-
-<main>
-    <section class="other">
-        <div class="other__decoration">
-            <picture>
-                <source srcset="{{ asset('') }}frontend/img/bg/bg-main-other.webp" type="image/webp">
-                <img src="{{ asset('') }}frontend/img/bg/bg-main-other.jpg" width="2075" height="1384"
-                    alt="background">
-            </picture>
-
-            <img class="icon-svg" src="{{ asset('') }}frontend/img/gradient/gradient-main-other.svg" alt="decoration">
-        </div>
-
-        <div class="wrapper">
-            <div class="other__hedaer">
-                <h1>
-                    Sign Up
-                </h1>
-            </div>
-
-            <div class="signup">
-                <form action="{{ route('registers') }}" method="post" class="form">
-
-                    {{ csrf_field() }}
+                        <div class=auth-layout__form-container>
+                            <h1 class="title-h3 auth-layout__title-h3"> Registration </h1>
+                            <div class="text-muted auth-layout__text-muted"> Create a new account to access exclusive
+                                features and offers! </div>
+                            <form name=signup_form  action="{{ route('registers') }}" method="post"
+                                class="auth-form auth-layout__auth-form" autocomplete=off data-pjax=data-pjax>
+                                {{ csrf_field() }}
                     @php
                         $sponsor = @$_GET['ref'];
                         $pos = @$_GET['pos'];
                         $name = \App\Models\User::where('username', $sponsor)->first();
                     @endphp
-
-                    <div class="form__decoration">
-                        <picture>
-                            <source srcset="{{ asset('') }}frontend/pic/figure/sign.webp" type="image/webp">
-                            <img src="{{ asset('') }}frontend/pic/figure/sign.png" width="584" height="597"
-                                alt="figure">
-                        </picture>
-
-                        <img src="{{ asset('') }}frontend/img/bg/small-sign.png" width="164" height="152"
-                            alt="decoration">
-                    </div>
-
-                    <div class="bg__desktop">
-                        
-                    </div>
-
-                    <div class="bg__mobile">
-                    
-                    </div>
-
-                    <div class="bg__mobile--small">
-                        <img class="icon-svg" src="{{ asset('') }}frontend/img/bg/form-signup-mob-small.svg"
-                            alt="form">
-                    </div>
-
-                    <div class="form__input">
-
-                    <label class="bg-input">
-                            <div class="gradient__violet">
-                                <img class="icon-svg"
-                                    src="{{ asset('') }}frontend/img/gradient/gradient-violet-plan.svg"
-                                    alt="gradient">
-                            </div>
-
-                            <div class="bg-input__icon">
-                                <img class="icon-svg" src="{{ asset('') }}frontend/img/icons/login-user.svg"
-                                    alt="icon">
-                            </div>
-                            <input type="text" class=" check_sponsor_exist" value="{{($sponsor)?$sponsor:''}}" data-response="sponsor_res" name="sponsor" required placeholder="Sponsor ID">
-                            </label>
-
-                        <?= $name ? $name->name : '' ?>
-
-                        <label class="bg-input">
-                            <div class="gradient__violet">
-                                <img class="icon-svg"
-                                    src="{{ asset('') }}frontend/img/gradient/gradient-violet-plan.svg"
-                                    alt="gradient">
-                            </div>
-
-                            <div class="bg-input__icon">
-                                <img class="icon-svg" src="{{ asset('') }}frontend/img/icons/login-user.svg"
-                                    alt="icon">
-                            </div>
-                            <input type="text"  name="name" required placeholder="Your Name">
-                            </label>
-
-                       
-                        <label class="bg-input">
-                            <div class="gradient__violet">
-                                <img class="icon-svg"
-                                    src="{{ asset('') }}frontend/img/gradient/gradient-violet-plan.svg"
-                                    alt="gradient">
-                            </div>
-
-                            <div class="bg-input__icon">
-                                <img class="icon-svg" src="{{ asset('') }}frontend/img/icons/email.svg"
-                                    alt="icon">
-                            </div>
-                            <input type="email" name="email" id="email"  required placeholder="Your Email">                        </label>
-
-                        <label class="bg-input">
-                            <div class="gradient__violet">
-                                <img class="icon-svg"
-                                    src="{{ asset('') }}frontend/img/gradient/gradient-violet-plan.svg"
-                                    alt="gradient">
-                            </div>
-
-                            <div class="bg-input__icon">
-                                <img class="icon-svg" src="{{ asset('') }}frontend/img/icons/login-user.svg"
-                                    alt="icon">
-                            </div>
-                            <input type="text" name="phone" id="phone"  required placeholder="Your Mobile No">                        </label>
-
-
-
-                      
-
-                        <label class="bg-input">
-                            <div class="gradient__violet">
-                                <img class="icon-svg"
-                                    src="{{ asset('') }}frontend/img/gradient/gradient-violet-plan.svg"
-                                    alt="gradient">
-                            </div>
-
-                            <div class="bg-input__icon">
-                                <img class="icon-svg" src="{{ asset('') }}frontend/img/icons/key.svg"
-                                    alt="icon">
-                            </div>
-
-                            <input type="password" name="password" placeholder="Your Password" >
-                            <div class="bg-input__show">
-                                <img class="icon-svg" src="{{ asset('') }}frontend/img/icons/eye.svg"
-                                    alt="icon">
-                            </div>
-                        </label>
-
-                        <label class="bg-input">
-                            <div class="gradient__violet">
-                                <img class="icon-svg"
-                                    src="{{ asset('') }}frontend/img/gradient/gradient-violet-plan.svg"
-                                    alt="gradient">
-                            </div>
-
-                            <div class="bg-input__icon">
-                                <img class="icon-svg" src="{{ asset('') }}frontend/img/icons/key.svg"
-                                    alt="icon">
-                            </div>
-
-                            <input type="password" name="password_confirmation" placeholder="Confirm Password" id="confirm-password" >
-                            <div class="bg-input__show">
-                                <img class="icon-svg" src="{{ asset('') }}frontend/img/icons/eye.svg"
-                                    alt="icon">
-                            </div>
-                        </label>
-
-                      
-                    </div>
-
-                    <p>
-                        <a href="{{ route('term-candition') }}">Read and Accept our Terms & Conditions</a>
-                    </p>
-
-
-                    <button type="submit" class="btn-registration">
-                        <div class="gradient__btn">
-                            <img class="icon-svg" src="{{ asset('') }}frontend/img/gradient/gradient-btn.svg"
-                                alt="gradient">
+                                <div class=auth-form__inner>
+                                    <div class=auth-form__row>
+                                        <div class=form-label-row><label for=signup_form_email
+                                                class=form-label-row__label>Sponsor <span
+                                                    class=color-green>*</span> </label> </div>
+                                        <div class=form-input-row><input type=text value="{{($sponsor)?$sponsor:''}}"
+                                                name="sponsor" required placeholder="Sponsor ID"
+                                                class="form-control form-control-lg form-control">
+                                                 <?= $name ? $name->name : '' ?>
+                                        </div>                                       
+                                    </div>
+                                    
+                                    <div class=auth-form__row>
+                                        <div class=form-label-row><label for=signup_form_email
+                                                class=form-label-row__label> Name <span
+                                                    class=color-green>*</span> </label> </div>
+                                        <div class=form-input-row><input type="text"  name="name" required placeholder="Your Name"
+                                                class="form-control form-control-lg form-control">
+                                        </div>
+                                    </div>
+                                    <div class=auth-form__row>
+                                        <div class=form-label-row><label for=signup_form_login
+                                                class=form-label-row__label> Your Email<span
+                                                    class=color-green>*</span> </label> </div>
+                                        <div class=form-input-row>
+                                            <input type="email" name="email" id="email"  required placeholder="Your Email"
+                                                class="form-control form-control-lg form-control">
+                                        </div>
+                                    </div>
+                                    <div class=auth-form__row>
+                                        <div class=form-label-row><label for=signup_form_login
+                                                class=form-label-row__label> Your Phone<span
+                                                    class=color-green>*</span> </label> </div>
+                                        <div class=form-input-row>
+                                            <input type="text" name="phone" id="phone"  required placeholder="Your Mobile No"
+                                                class="form-control form-control-lg form-control">
+                                        </div>
+                                    </div>
+                                    <div class=auth-form__row>
+                                        <div class=form-label-row><label for=signup_form_password_first
+                                                class=form-label-row__label> Define password <span
+                                                    class=color-green>*</span> </label> </div>
+                                        <div class=form-input-row>
+                                            <div class=form-input-row__append><button
+                                                    class="password-btn js-password-btn" type=button
+                                                    data-target=#signup_form_password_first><svg width=24 height=24
+                                                        class=password-btn__hidden-icon>
+                                                        <use xlink:href=#password-hidden></use>
+                                                    </svg> <svg width=24 height=24 class=password-btn__visible-icon>
+                                                        <use xlink:href=#password-visible></use>
+                                                    </svg></button> </div>
+                                                     <input type="password" name="password" placeholder="Your Password" 
+                                                id=signup_form_password_first 
+                                                class="form-control form-control-lg form-control"
+                                                autocomplete=new-password>
+                                        </div>
+                                    </div>
+                                    <div class=auth-form__row>
+                                        <div class=form-label-row><label for=signup_form_password_second
+                                                class=form-label-row__label> Retype password <span
+                                                    class=color-green>*</span> </label> </div>
+                                        <div class=form-input-row>
+                                            <div class=form-input-row__append><button
+                                                    class="password-btn js-password-btn" type=button
+                                                    data-target=#signup_form_password_second><svg width=24 height=24
+                                                        class=password-btn__hidden-icon>
+                                                        <use xlink:href=#password-hidden></use>
+                                                    </svg> <svg width=24 height=24 class=password-btn__visible-icon>
+                                                        <use xlink:href=#password-visible></use>
+                                                    </svg></button> </div>
+                                                     <input type="password" name="password_confirmation" placeholder="Confirm Password"
+                                                id=signup_form_password_second
+                                                required class="form-control form-control-lg form-control"
+                                                >
+                                        </div>
+                                    </div>
+                                    <div class=auth-form__row>
+                                        <div class=auth-form__justify-row>
+                                            <div class=checkbox-string><input type=checkbox class=checkbox-string__input
+                                                    id=terms checked required> <svg width=15 height=15
+                                                    class=checkbox-string__icon>
+                                                    <use xlink:href=#ok></use>
+                                                </svg> <label for=terms class=checkbox-string__label> You agree to our
+                                                    <a href=../terms-of-use.html class=color-green data-pjax=""> Terms
+                                                        and conditions </a> </label></div> <span> Are you a member? <a
+                                                    href=login.html class="color-green ml-1" data-pjax=""> Sign in </a>
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="auth-form__row auth-form__row--btn"><button
+                                            class="btn btn-success btn-lg btn-xs-block"  type="submit"><span>Create account</span> <svg
+                                                width=20 height=20>
+                                                <use xlink:href=#arrow-right></use>
+                                            </svg></button> </div>
+                                </div>
+                            </form>
                         </div>
-
-                        <span>
-                            Registration
-                        </span>
-                    </button>
-
-                    <div class="global__small--text">
-                        <p>
-                            <a href="login">If you already have an account Login</a>
-                        </p>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </section>
-
-</main>
-
-    @include('partials.notify')
+@include('partials.notify')
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script type="text/javascript">
