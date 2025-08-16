@@ -423,12 +423,10 @@
                                             opportunities </div>
                                         <h2 class="title-h2 contents-group__title-h2"> The limitless possibilities of
                                             AiroCoin </h2>
-                                        <div class=contents-group__content> Since automatic arbitration trading under
-                                            the control of AI is performed out by four bots, you get the opportunity not
-                                            only to successfully and profitably invest your own money, but also to
-                                            diversify your own investment portfolio, taking advantage of more than one
-                                            bot. This will help you see an overall great picture of the future of your
-                                            own investments that work for you 24/7. </div>
+                                        <div class=contents-group__content> Decentralized & Transparent – No middlemen, no restrictions. Every transaction is verified on the blockchain for complete trust and security.
+                                            Community-Driven – Governed by its users, AitroCoin grows stronger with community participation and decision-making.
+                                            Fast & Low-Cost Transactions – Built with cutting-edge blockchain technology ensuring speed, scalability, and minimal fees.
+                                         </div>
                                         <div class=contents-group__footer><a href=auth/signup.html
                                                 class="btn btn-success btn-lg btn-xs-block" data-pjax=""><span>Get
                                                     AiroCoin Account</span> <svg width=18 height=16>
@@ -594,12 +592,7 @@
                                             helping to earn </div>
                                         <h2 class="title-h2 contents-group__title-h2"> Informativeness and quick
                                             monetary reaction </h2>
-                                        <div class=contents-group__content> The speed with which our bots perform
-                                            trading operations allows millions of transactions to be made in one working
-                                            day. And Artificial Intelligence, which is based on interactively trained
-                                            algorithms, does not allow the outcome of events that could lead to an
-                                            irreparable loss of money. Everyone benefits and everyone gets what they
-                                            strive for. Everyone earns by improving our trading programs. </div>
+                                        <div class=contents-group__content> AitroCoin isn’t just another token – it’s a movement towards decentralization, financial independence, and global digital economy. With AitroCoin, anyone, anywhere can earn, trade, and grow without boundaries. </div>
                                         <div class=contents-group__footer><a href=auth/signup.html
                                                 class="btn btn-success btn-lg  btn-xs-block" data-pjax=""><span>Get
                                                     AiroCoin Account</span> <svg width=18 height=16>
