@@ -209,10 +209,10 @@
                                     data-pjax=""> FAQ </a> </div>
                             <!-- <div class=mobile-menu-list__item><a href=guide.html class=mobile-menu-list__link
                                     data-pjax=""> Guide </a> </div> -->
-                            <div class=mobile-menu-list__item><a href={{route('news')}} class=mobile-menu-list__link
-                                    data-pjax=""> Blog </a> </div>
-                            <div class=mobile-menu-list__item><a href={{route('contact-us')}} class=mobile-menu-list__link
-                                    data-pjax=""> Contacts </a> </div>
+                            <!-- <div class=mobile-menu-list__item><a href={{route('news')}} class=mobile-menu-list__link
+                                    data-pjax=""> Blog </a> </div> -->
+                            <!-- <div class=mobile-menu-list__item><a href={{route('contact-us')}} class=mobile-menu-list__link
+                                    data-pjax=""> Contacts </a> </div> -->
                         </div>
                     </div>
                     <div class=mobile-navigation__footer>
@@ -334,13 +334,14 @@
                                                         height=14>
                                                         <!-- <use xlink:href=#menu-finance></use> -->
                                                     </svg> </span> <span>Partnership</span></a> </li>
-                                        <li class=menu__item><a href={{route('news')}}
+                                        <li class=menu__item><a href={{route('contact-us')}} 
                                                 class="menu-link menu__menu-link js-link-partnership"
                                                 data-pjax=""><span
                                                     class="round-stroke-icon menu-link__round-stroke-icon"><svg width=14
                                                         height=14>
                                                         <use xlink:href=#menu-partnership></use>
-                                                    </svg> </span> <span>Blog</span></a> </li>
+                                                    </svg> </span> <span>Contact Us</span></a>
+                                                 </li>
                                                     <li class=menu__item><a href={{route('faq')}}
                                                 class="menu-link menu__menu-link js-link-partnership"
                                                 data-pjax=""><span

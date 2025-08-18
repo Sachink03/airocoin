@@ -61,24 +61,24 @@
                                             <div class=footer-menu-title__content> About us </div>
                                         </div>
                                         <ul class=footer-menu-list__items>
-                                            <li class=footer-menu-list__item><a href=index.html
+                                            <li class=footer-menu-list__item><a href={{asset('')}}
                                                     class="footer-menu-list__link js-link-home" data-pjax=""> Home
                                                 </a> </li>
-                                            <li class=footer-menu-list__item><a href=company.html
+                                            <li class=footer-menu-list__item><a href={{route('affiliate')}}
                                                     class="footer-menu-list__link js-link-company" data-pjax="">
                                                     Company </a> </li>
-                                            <li class=footer-menu-list__item><a href=technologies.html
+                                            <li class=footer-menu-list__item><a href={{route('start')}}
                                                     class="footer-menu-list__link js-link-techno" data-pjax="">
                                                     Technologies </a> </li>
-                                            <li class=footer-menu-list__item><a href=theme/static/presentation-en.pdf
+                                            <li class=footer-menu-list__item><a href={{route('partners')}}
                                                     target=_blank class="footer-menu-list__link js-link-pdf">
                                                     Presentation </a> </li>
-                                            <li class=footer-menu-list__item><a href=contacts.html
+                                            <li class=footer-menu-list__item><a href={{route('contact-us')}}
                                                     class="footer-menu-list__link js-link-contacts" data-pjax="">
                                                     Contacts </a> </li>
                                         </ul>
                                     </div>
-                                    <div class="footer-menu-list section-footer-first__footer-menu-list">
+                                    <!-- <div class="footer-menu-list section-footer-first__footer-menu-list">
                                         <div class="footer-menu-title footer-menu-list__footer-menu-title">
                                             <div class=footer-menu-title__icon-cell><svg width=20 height=20>
                                                     <use xlink:href=#arrow-right-down></use>
@@ -93,7 +93,7 @@
                                                     class="footer-menu-list__link js-link-partnership" data-pjax="">
                                                     Partnership </a> </li>
                                         </ul>
-                                    </div>
+                                    </div> -->
                                     <div class="footer-menu-list section-footer-first__footer-menu-list">
                                         <div class="footer-menu-title footer-menu-list__footer-menu-title">
                                             <div class=footer-menu-title__icon-cell><svg width=20 height=20>

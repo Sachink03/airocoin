@@ -18,17 +18,17 @@
                                 <div class="contents-group section-mission__contents-group">
                                     <div class="sub-title color-green contents-group__sub-title"> First introduction
                                     </div>
-                                    <h2 class="title-h2 contents-group__title-h2"> Cortex Platform </h2>
+                                    <h2 class="title-h2 contents-group__title-h2"> AiroCoin Platform </h2>
                                     <div class=contents-group__content> A new financial instrument that allows online
                                         investments to effectively and safely represent the interests of financial
-                                        investors in the cryptocurrency trading world. The Cortex offers automated
+                                        investors in the cryptocurrency trading world. TheAiroCoin offers automated
                                         cryptocurrency trading solutions using an Artificial Intelligence. The
-                                        Cortex-Trade is a product of high trading technologies. </div>
+                                        AiroCoin is a product of high trading technologies. </div>
                                     <div class=contents-group__content> We all want our investments to work as
-                                        efficiently as possible. And our the Cortex AI Trading investment platform,
+                                        efficiently as possible. And our the AiroCoin AI Trading investment platform,
                                         offers clear benefits to those investing in automated trading. Without special
                                         knowledge of arbitration trading processes. The most efficient, simple and
-                                        convenient solutions from the British company Cortex-Trade. </div>
+                                        convenient solutions from the British company AiroCoin. </div>
                                 </div>
                             </div>
                             <div class=section-mission__right>
@@ -57,10 +57,9 @@
                                         <div class="step-card main-steps-group__step-card">
                                             <div class=step-card__inner>
                                                 <div class="step-widget step-card__step-widget"> Stride 1 </div>
-                                                <div class="title-h4 step-card__title-h4"> Create <br> trading account
+                                                <div class="title-h4 step-card__title-h4"> Create Your<br> AiroCoin Wallet
                                                 </div>
-                                                <div class=step-card__content> Register trading account on the platform
-                                                    to start any investment activity. </div>
+                                                <div class=step-card__content>Register your decentralized wallet on the platform to securely hold, trade, and invest in AiroCoin.</div>
                                             </div>
                                         </div>
                                     </div>
@@ -68,10 +67,9 @@
                                         <div class="step-card main-steps-group__step-card">
                                             <div class=step-card__inner>
                                                 <div class="step-widget step-card__step-widget"> Stride 2 </div>
-                                                <div class="title-h4 step-card__title-h4"> Try the DEMO <br> version
+                                                <div class="title-h4 step-card__title-h4"> Get <br>AiroCoin
                                                 </div>
-                                                <div class=step-card__content> Get $2,000 to your DEMO account and test
-                                                    your profit dynamics personally. </div>
+                                                <div class=step-card__content>Purchase or swap AiroCoin through supported exchanges or directly from our platform.</div>
                                             </div>
                                         </div>
                                     </div>
@@ -79,10 +77,9 @@
                                         <div class="step-card main-steps-group__step-card">
                                             <div class=step-card__inner>
                                                 <div class="step-widget step-card__step-widget"> Stride 3 </div>
-                                                <div class="title-h4 step-card__title-h4"> Make your own <br> investment
+                                                <div class="title-h4 step-card__title-h4"> Hold &<br> Stake
                                                 </div>
-                                                <div class=step-card__content> Make investments using any trading bot
-                                                    from the Cortex AI Trading. </div>
+                                                <div class=step-card__content>Grow your wealth by holding AiroCoin or staking it to earn passive rewards.</div>
                                             </div>
                                         </div>
                                     </div>
@@ -90,10 +87,9 @@
                                         <div class="step-card main-steps-group__step-card">
                                             <div class=step-card__inner>
                                                 <div class="step-widget step-card__step-widget"> Stride 4 </div>
-                                                <div class="title-h4 step-card__title-h4"> Get and <br> withdraw profit
+                                                <div class="title-h4 step-card__title-h4">Earn &<br> Use
                                                 </div>
-                                                <div class=step-card__content> The Cortex AI Trading. Your confidence in
-                                                    the future and your profits already today. </div>
+                                                <div class=step-card__content>Earn AiroCoin globally or use it for payments, governance, and DeFi applications.</div>
                                             </div>
                                         </div>
                                     </div>
@@ -150,13 +146,13 @@
                                         </div>
                                         <h2 class="title-h2 contents-group__title-h2"> Advantage of our technologies
                                         </h2>
-                                        <div class=contents-group__content> Cortex-Trade uses automated arbitration
+                                        <div class=contents-group__content> AiroCoin uses automated arbitration
                                             trading, which is controlled by Artificial Intelligence. And this means that
                                             cryptocurrency trading is performed unmistakably, bringing benefits and
                                             profits to our investors in 24/7 mode. </div>
                                         <div class=contents-group__footer><a href=auth/signup.html
                                                 class="btn btn-success btn-lg btn-xs-block" data-pjax=""><span>Get
-                                                    Cortex Account</span> <svg width=18 height=16>
+                                                    AiroCoin Account</span> <svg width=18 height=16>
                                                     <use xlink:href=#arrow-right></use>
                                                 </svg></a> </div>
                                     </div>
@@ -194,7 +190,7 @@
                                                 data-parent=#accordion>
                                                 <div class=how-trading-faq-card__body>
                                                     <ul class=dotted-list>
-                                                        <li class=dotted-list__item> Cortex AI Trading improves market
+                                                        <li class=dotted-list__item> AiroCoin AI Trading improves market
                                                             liquidity and market stability by rapidly exploiting
                                                             imbalances. </li>
                                                         <li class=dotted-list__item> Controls fair pricing and reduces
@@ -214,7 +210,7 @@
                                                 data-parent=#accordion>
                                                 <div class=how-trading-faq-card__body>
                                                     <ul class=dotted-list>
-                                                        <li class=dotted-list__item> Cortex ensures the efficiency and
+                                                        <li class=dotted-list__item>AiroCoin ensures the efficiency and
                                                             integrity of financial markets by identifying and exploiting
                                                             price differences using AI. </li>
                                                         <li class=dotted-list__item> Equalizes prices in different
@@ -235,7 +231,7 @@
                                                 data-parent=#accordion>
                                                 <div class=how-trading-faq-card__body>
                                                     <ul class=dotted-list>
-                                                        <li class=dotted-list__item> Cortex contributes to market
+                                                        <li class=dotted-list__item>AiroCoin contributes to market
                                                             efficiency by narrowing spreads and reducing price
                                                             discrepancies. </li>
                                                         <li class=dotted-list__item> Makes conditions and fairness of
@@ -255,7 +251,7 @@
                                                 data-parent=#accordion>
                                                 <div class=how-trading-faq-card__body>
                                                     <ul class=dotted-list>
-                                                        <li class=dotted-list__item> Cortex AI Trading provides an
+                                                        <li class=dotted-list__item>AiroCoin AI Trading provides an
                                                             opportunity for its users to diversify investment portfolios
                                                             by exploring different markets and asset classes. </li>
                                                         <li class=dotted-list__item> Adaptive AI algorithms help ensure
@@ -578,7 +574,7 @@
                             <div class="contents-group section-certs__contents-group">
                                 <div class="sub-title color-green contents-group__sub-title"> Company openness </div>
                                 <h2 class="title-h2 contents-group__title-h2"> Legal Compliance </h2>
-                                <div class=contents-group__content> Cortex AI Trading is an innovative company that has
+                                <div class=contents-group__content>AiroCoin AI Trading is an innovative company that has
                                     its own traditions and values the trust of its customers. And in return, we also
                                     maximize our transparency and tolerance and do our best to ensure that our
                                     activities never go beyond the norms of business behavior established by law. </div>
@@ -621,7 +617,7 @@
                                                 <div class=cert-card__body>
                                                     <div class=cert-card__title> Certificate of incorporation <br> of a
                                                         private limited company </div>
-                                                    <div class=cert-card__content> Cortex AI Trading is a British
+                                                    <div class=cert-card__content>AiroCoin AI Trading is a British
                                                         traditions of a successful business performing. </div>
                                                     <div class=cert-card__footer><a
                                                             href="theme/static/CORTEX%20TRADE%20LTD.pdf" target=_blank
@@ -644,7 +640,7 @@
                                                 <div class=cert-card__body>
                                                     <div class=cert-card__title> Memorandum and <br> articles of
                                                         association </div>
-                                                    <div class=cert-card__content> A new level of trust between Cortex
+                                                    <div class=cert-card__content> A new level of trust between AiroCoin
                                                         AI Trading and our customers. </div>
                                                     <div class=cert-card__footer><a href=theme/static/MEMARTS.pdf
                                                             target=_blank
@@ -664,7 +660,7 @@
                         <div class=container>
                             <div class=section-team__header>
                                 <div class="contents-group section-team__contents-group">
-                                    <div class="sub-title color-green contents-group__sub-title"> Cortex Core </div>
+                                    <div class="sub-title color-green contents-group__sub-title"> AiroCoin Core </div>
                                     <h2 class="title-h2 contents-group__title-h2"> Our team </h2>
                                 </div>
                                 <div class=team-nav-slider-block>
@@ -918,7 +914,7 @@
                                                 with us. </div>
                                             <div class=certificate-footer-card__btn-row><a href=auth/signup.html
                                                     class="btn btn-success btn-lg btn-xs-block" data-pjax=""><span>Get
-                                                        Cortex Account</span> <svg width=18 height=16>
+                                                        AiroCoin Account</span> <svg width=18 height=16>
                                                         <use xlink:href=#arrow-right></use>
                                                     </svg></a> </div>
                                         </div>
@@ -935,8 +931,7 @@
                                         <div class=contents-group>
                                             <div class="sub-title color-green contents-group__sub-title"> Smart
                                                 technologies </div>
-                                            <h2 class="title-h2 contents-group__title-h2"> More profit <br> with Cortex
-                                                AI Trading </h2>
+                                            <h2 class="title-h2 contents-group__title-h2"> More profit <br> with AiroCoin </h2>
                                         </div>
                                     </div>
                                     <div class=header-section-block__right>
@@ -975,7 +970,7 @@
                                             </div>
                                             <div class=robots-card__body>
                                                 <div class="title-h5 robots-card__title-h5"> More safety </div>
-                                                <div class=robots-card__content> The trading bots from Cortex AI Trading
+                                                <div class=robots-card__content> The trading bots from AiroCoin
                                                     usage makes it much more efficient and safer to perform trading
                                                     operations on cryptocurrency exchanges, minimizing the risks of the
                                                     investment loss by customers. </div>

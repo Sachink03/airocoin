@@ -1436,7 +1436,7 @@
                             $('#js-media-slider').slick('unslick')
                         })
                     </script>
-                    <section class="section section-screen page-home__section-screen js-scrollable">
+                    <!-- <section class="section section-screen page-home__section-screen js-scrollable">
                         <div class=section-screen__inner>
                             <div class=container>
                                 <div class="contents-group section-screen__contents-group">
@@ -2162,7 +2162,7 @@
                                 </div>
                             </div>
                         </div>
-                    </section>
+                    </section> -->
                     <script>
                         function exMarqueeDestroy() {
                             $('#js-ex-slider').marquee('destroy');
@@ -2337,7 +2337,7 @@
                                 <div class=main-banner__left>
                                     <div class="title-h3 main-banner__title-h3"> Use the best technology <br> for your
                                         own profit </div>
-                                    <div class=main-banner__btn-row><a href=auth/signup.html
+                                    <div class=main-banner__btn-row><a href=#
                                             class="btn btn-success btn-lg" data-pjax=""><span>Your
                                                 technologies</span> <svg width=20 height=20>
                                                 <use xlink:href=#arrow-right></use>
