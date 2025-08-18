@@ -162,7 +162,7 @@
                                         href=terms-of-use.html class=section-footer-second__link data-pjax=""> Terms
                                         of use </a></div>
                                 <div class=section-footer-second__center>
-                                    <div class=section-footer-second__content> © 2025 / All rights reserved by Cortex
+                                    <div class=section-footer-second__content> © 2025 / All rights reserved by AiroCoin
                                     </div>
                                 </div>
                             </div>
@@ -221,11 +221,11 @@
                 </div>
             </div>
         </template>
-        <div class=transactions-container>
+        <!-- <div class=transactions-container>
             <div class=container-fluid>
                 <div class=transactions-container__inner id=js-tx-container></div>
             </div>
-        </div>
+        </div> -->
         <script>
             var txSub = null,
                 clearTxContainerTimeout = null;

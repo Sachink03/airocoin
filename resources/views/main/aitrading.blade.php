@@ -293,7 +293,7 @@
                                     with demo mode to explore the platform risk-free, or connect your account and trade
                                     smart today. </div>
                                 <div class=section-trading__btn-row><a href=auth/signup.html
-                                        class="btn btn-success btn-lg btn-xs-block" data-pjax=""><span>Get Cortex
+                                        class="btn btn-success btn-lg btn-xs-block" data-pjax=""><span>Get AiroCoin
                                             Account</span> <svg width=18 height=16>
                                             <use xlink:href=#arrow-right></use>
                                         </svg></a> </div>

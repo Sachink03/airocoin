@@ -39,7 +39,7 @@
                                                 <use xlink:href=#document></use>
                                             </svg></a></div>
                                 </div>
-                                <div class="social-text-group section-intro__social-text-group">
+                                <!-- <div class="social-text-group section-intro__social-text-group">
                                     <div class=social-text-group__inner>
                                         <div class=social-text-group__content> Stay connected with us on social media
                                         </div>
@@ -69,7 +69,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>

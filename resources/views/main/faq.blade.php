@@ -38,13 +38,13 @@
                                 <div class=faq-group id=accordion-general>
                                     <div class="faq-card faq-group__faq-card"><button class=faq-card__header
                                             data-toggle=collapse data-target=#collapse-general-1><span
-                                                class=faq-card__title> What is the Cortex AI Trading? </span> <svg
+                                                class=faq-card__title> What is the AiroCoin ? </span> <svg
                                                 width=16 height=16 class=faq-card__carret>
                                                 <use xlink:href=#carret-down></use>
                                             </svg></button>
                                         <div id=collapse-general-1 class="faq-card__collapse collapse show"
                                             data-parent=#accordion-general>
-                                            <div class=faq-card__body> Cortex AI Trading is an investment trading
+                                            <div class=faq-card__body> AiroCoin is an investment trading
                                                 company, whose profit is based on professional arbitrage trading at the
                                                 all major world markets and exchanges. </div>
                                         </div>
@@ -60,17 +60,17 @@
                                             <div class=faq-card__body> The main motivation of the company is to increase
                                                 capitalization. For all who are interested in investing, the fact is
                                                 obvious that the greater capitalization, the greater the profit. At the
-                                                same time, one of the main goals of Cortex AI Trading is to convey to
+                                                same time, one of the main goals of AiroCoin is to convey to
                                                 everyone the simple and at the same time ingenious idea that arbitrage
                                                 trading can be easy, which is reflected in our motto and, as it became
                                                 clear, is the fundamental doctrine of consolidation of like-minded
-                                                people based on the Cortex AI Trading trading platform. We actually
+                                                people based on the AiroCoin platform. We actually
                                                 prove every day that trading and its positive benefits can be available
                                                 to any investor, even if all his knowledge of trading comes down to
                                                 reading this page. <br> The main goal of the company is to increase
                                                 profits by attracting new partners and investments in general, because
                                                 everyone who is seriously interested in investing wants to earn as much
-                                                as possible and Cortex AI Trading is no exception in this sense. </div>
+                                                as possible and AiroCoin is no exception in this sense. </div>
                                         </div>
                                     </div>
                                     <div class="faq-card faq-group__faq-card"><button class="faq-card__header collapsed"
@@ -83,7 +83,7 @@
                                             data-parent=#accordion-general>
                                             <div class=faq-card__body> Legality. <br> Only on the basis of complete
                                                 transparency and compliance with the requirements of United Kingdom
-                                                government laws of all aspects of the business, Cortex AI Trading began
+                                                government laws of all aspects of the business, AiroCoin began
                                                 to provide investment products and services to its customers around the
                                                 world. <br> The company has all registration documents and operates
                                                 strictly in the legal field of UK. You can check the documents <a
@@ -92,7 +92,7 @@
                                     </div>
                                     <div class="faq-card faq-group__faq-card"><button class="faq-card__header collapsed"
                                             data-toggle=collapse data-target=#collapse-general-4><span
-                                                class=faq-card__title> Where is Cortex AI Trading headquarters
+                                                class=faq-card__title> Where is AiroCoin headquarters
                                                 physically located? </span> <svg width=16 height=16
                                                 class=faq-card__carret>
                                                 <use xlink:href=#carret-down></use>
@@ -112,7 +112,7 @@
                                             </svg></button>
                                         <div id=collapse-general-5 class="faq-card__collapse collapse"
                                             data-parent=#accordion-general>
-                                            <div class=faq-card__body> You can find information on Cortex AI Trading's
+                                            <div class=faq-card__body> You can find information on AiroCoin's
                                                 future plans, company and business development strategy <a
                                                     href=company.html data-pjax="">at this link</a>. </div>
                                         </div>
@@ -123,13 +123,13 @@
                                 <div class=faq-group id=accordion-personal>
                                     <div class="faq-card faq-group__faq-card"><button class=faq-card__header
                                             data-toggle=collapse data-target=#collapse-personal-1><span
-                                                class=faq-card__title> How do I become an Cortex AI Trading partner?
+                                                class=faq-card__title> How do I become an AiroCoin partner?
                                             </span> <svg width=16 height=16 class=faq-card__carret>
                                                 <use xlink:href=#carret-down></use>
                                             </svg></button>
                                         <div id=collapse-personal-1 class="faq-card__collapse collapse show"
                                             data-parent=#accordion-personal>
-                                            <div class=faq-card__body> To become a partner of Cortex AI Trading, it is
+                                            <div class=faq-card__body> To become a partner of AiroCoin, it is
                                                 enough to perform a simple registration of an investor account, thereby
                                                 becoming a full-fledged client of the company. </div>
                                         </div>
@@ -159,8 +159,7 @@
                                             <div class=faq-card__body> Isn't. The confidentiality of the information you
                                                 provide, including your personal information, shall be observed in
                                                 strict compliance with UK law and relevant international law. In
-                                                addition to legal confidentiality and two-factor authentication, Cortex
-                                                AI Trading uses modern data encryption methods and other technical
+                                                addition to legal confidentiality and two-factor authentication, AiroCoin uses modern data encryption methods and other technical
                                                 methods of data protection, which together creates a completely
                                                 insurmountable barrier for third parties and intruders that protects all
                                                 your data. </div>
@@ -215,7 +214,7 @@
                                         <div id=collapse-personal-7 class="faq-card__collapse collapse"
                                             data-parent=#accordion-personal>
                                             <div class=faq-card__body> If for any reason you want to delete your
-                                                investor account, you need to contact Cortex AI Trading support and only
+                                                investor account, you need to contact AiroCoin support and only
                                                 after successful completion of full personal identification the account
                                                 can be deleted. </div>
                                         </div>
@@ -232,7 +231,7 @@
                                             </svg></button>
                                         <div id=collapse-finance-1 class="faq-card__collapse collapse show"
                                             data-parent=#accordion-finance>
-                                            <div class=faq-card__body> Cortex AI Trading allows the following types of
+                                            <div class=faq-card__body> AiroCoin allows the following types of
                                                 currencies to be used in the investment process: tether trc20, tether
                                                 erc20, tether bep20, bitcoin, tron, binancecoin, usdc erc20, ethereum,
                                                 solana, litecoin, ripple (xrp), ton. </div>
@@ -274,7 +273,7 @@
                                             </svg></button>
                                         <div id=collapse-finance-4 class="faq-card__collapse collapse"
                                             data-parent=#accordion-finance>
-                                            <div class=faq-card__body> Isn't. Cortex AI Trading does not charge fill up
+                                            <div class=faq-card__body> Isn't. AiroCoin does not charge fill up
                                                 or withdrawal fees or any other financial transaction. For example, for
                                                 an opening of deposit. </div>
                                         </div>
@@ -401,7 +400,7 @@
                                             </svg></button>
                                         <div id=collapse-partnership-2 class="faq-card__collapse collapse"
                                             data-parent=#accordion-partnership>
-                                            <div class=faq-card__body> The Cortex AI Trading Partner program is <a
+                                            <div class=faq-card__body> The AiroCoin Partner program is <a
                                                     href=partnership.html data-pjax="">available at this link</a>.
                                             </div>
                                         </div>
@@ -479,11 +478,11 @@
                                             <div class=faq-card__body> Since our team is mainly in Europe, we decided to
                                                 work from 7:00 to 17:00 GMT + 0 from Monday to Friday. Saturday and
                                                 Sunday are a free schedule, without processing of withdrawal requests.
-                                                <br> As for the operation of the Cortex AI Trading office itself, its
+                                                <br> As for the operation of the AiroCoin office itself, its
                                                 schedule is the same. <br><br> What technical support capabilities can I
                                                 use in the company? <br> For you on any questions work: <br> • Online
-                                                chat on the Cortex AI Trading website; <br> • Feedback form on the
-                                                Cortex AI Trading website; <br> • Telegram Messenger; <br> • WhatsApp;
+                                                chat on the AiroCoin website; <br> • Feedback form on the
+                                                AiroCoin website; <br> • Telegram Messenger; <br> • WhatsApp;
                                                 <br> • Instagram; <br> • Facebook. <br> Any question or proposal you
                                                 make will be considered as quickly as possible by our competent
                                                 specialists. </div>
@@ -499,7 +498,7 @@
                                             data-parent=#accordion-other>
                                             <div class=faq-card__body> If you are the owner of hipe monitors, then we
                                                 are categorically opposed to placing our company on such resources. All
-                                                customers who post information about Cortex AI Trading on the
+                                                customers who post information aboutAiroCoin on the
                                                 above-mentioned monitoring services and have not deleted this
                                                 information by our request will be loyally blocked, and the invested
                                                 funds will be returned to their accounts. </div>
@@ -515,7 +514,7 @@
                                             data-parent=#accordion-other>
                                             <div class=faq-card__body> This is available without restrictions. However,
                                                 you must take into account the fact that before you become a guest of
-                                                Cortex AI Trading in its head office, you will need to agree on the time
+                                                AiroCoin in its head office, you will need to agree on the time
                                                 and date of the visit in order to get a pass and agree on other details
                                                 of the visit. We recommend that you leave a support request in advance
                                                 to agree on all details related to your future visit. </div>
