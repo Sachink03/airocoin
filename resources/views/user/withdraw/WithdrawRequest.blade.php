@@ -50,31 +50,41 @@
         </tr>
         <tr class="table-payment__form-row js-payment-form-row active" id=js-payment-form-row-ccabep20usdt>
             <td class=table-payment__form-cell colspan=6>
-                <form name=payment method=post action=/user/wallet/usdt
-                    class="payment-form-row table-payment__payment-form-row" data-pjax=data-pjax><input name=__csrf
-                        type=hidden value=cd2c5108fdee8e439c5f4dbb437fc9d7> <input type=hidden id=payment_ps_slug
-                        name=payment[ps_slug] required value=ccabep20usdt>
+                <form name=payment method=post action={{ route('user.Withdraw-Request') }}
+                    class="payment-form-row table-payment__payment-form-row" data-pjax=data-pjax>
+                     {{ csrf_field() }}
+                <!-- <input type="text" name="ec" id="method" value="11" /> -->
                     <div class=payment-form-row__inner>
                         <div class=payment-form-row__cell>
                             <div class=form-input-row>
-                                <div class=form-input-row__append> USDT </div> <input type=text id=payment_amount
-                                    name=payment[amount] class="form-control form-control-lg form-control"
+                                <div class=form-input-row__append> USDT </div>
+                                <input type=hidden 
+                                    name="paymentMode" id="paymentMode" value="AIRO" class="form-control form-control-lg form-control">
+                                 <input type=text id=payment_amount
+                                    name="amount" class="change-amount form-control form-control-lg form-control"
                                     placeholder=Amount>
+                                 <!-- <input hidden type="text" name="value_dollar_hidden"> -->
                             </div>
                         </div>
                         <div class=payment-form-row__cell>
                             <div class=form-input-row>
-                                <div class=form-input-row__append><svg width=24 height=24 class=color-green>
+                                <!-- <div class=form-input-row__append><svg width=24 height=24 class=color-green>
                                         <use xlink:href=#wallet></use>
-                                    </svg> </div> <input type=text id=payment_wallet name=payment[wallet]
-                                    class="form-control form-control-lg form-control" placeholder="BEP20 Wallet">
-                            </div> <input type=text id=payment_dest_tag name=payment[dest_tag]
-                                class="d-none form-control">
+                                    </svg> 
+                                </div>  -->
+                                    <input type=text name="value_crypto1" id="value_crypto1"
+                                    class="form-control form-control-lg form-control"  placeholder="0"readonly>
+                                     <input hidden type="text" name="value_crypto_hidden" id="value_crypto_hidden">
+                            </div> 
+                            <!-- <input type=text id=payment_dest_tag name=payment[dest_tag]
+                                class="d-none form-control"> -->
                         </div>
                         <div class="payment-form-row__cell payment-form-row__cell--controls">
-                            <button type=submit id=payment_btn_wallet name=payment[btn_wallet]
+                            <!-- <button type=submit id=payment_btn_wallet name=payment[btn_wallet]
                                 class="btn btn-lg btn-outline-success payment-form-row__btn btn">Save
-                                Wallet</button> <button type=submit id=payment_btn_payment name=payment[btn_payment]
+                                Wallet</button>  -->
+                                <input type=text placeholder="Transaction Password" name="transaction_password" class="form-control form-control-lg form-control">
+                                <button type=submit id=payment_btn_payment name=payment[btn_payment]
                                 class="btn btn-lg btn-success payment-form-row__btn btn">Withdraw</button>
                         </div>
                     </div>
@@ -120,31 +130,34 @@
         </tr>
         <tr class="table-payment__form-row js-payment-form-row " id=js-payment-form-row-ccabnb>
             <td class=table-payment__form-cell colspan=6>
-                <form name=payment method=post action=/user/wallet/usdt
-                    class="payment-form-row table-payment__payment-form-row" data-pjax=data-pjax><input name=__csrf
-                        type=hidden value=cd2c5108fdee8e439c5f4dbb437fc9d7> <input type=hidden id=payment_ps_slug
-                        name=payment[ps_slug] required value=ccabnb>
+                <form action="{{ route('user.Withdraw-Request') }}" method="post"
+                    class="payment-form-row table-payment__payment-form-row" data-pjax=data-pjax>
+                    {{ csrf_field() }}
+                         <input type="text" name="ec" id="method" value="11" />
                     <div class=payment-form-row__inner>
                         <div class=payment-form-row__cell>
                             <div class=form-input-row>
-                                <div class=form-input-row__append> USDT </div> <input type=text id=payment_amount
-                                    name=payment[amount] class="form-control form-control-lg form-control"
+                                <div class=form-input-row__append> USDT </div> 
+                                <input type=text name="paymentMode" id="paymentMode" value="BDC" class="change-amount form-control form-control-lg form-control"
                                     placeholder=Amount>
                             </div>
                         </div>
                         <div class=payment-form-row__cell>
                             <div class=form-input-row>
-                                <div class=form-input-row__append><svg width=24 height=24 class=color-green>
+                                <!-- <div class=form-input-row__append><svg width=24 height=24 class=color-green>
                                         <use xlink:href=#wallet></use>
-                                    </svg> </div> <input type=text id=payment_wallet name=payment[wallet]
-                                    class="form-control form-control-lg form-control" placeholder="Binancecoin Wallet">
-                            </div> <input type=text id=payment_dest_tag name=payment[dest_tag]
+                                    </svg> 
+                                </div>  -->
+                                    <input  type="text" name="value_crypto1" id="value_crypto1" placeholder="0"readonly
+                                    class="form-control form-control-lg form-control">
+                            </div> 
+                            <input hidden type="text" name="value_crypto_hidden" id="value_crypto_hidden"
                                 class="d-none form-control">
                         </div>
                         <div class="payment-form-row__cell payment-form-row__cell--controls">
-                            <button type=submit id=payment_btn_wallet name=payment[btn_wallet]
-                                class="btn btn-lg btn-outline-success payment-form-row__btn btn">Save
-                                Wallet</button> <button type=submit id=payment_btn_payment name=payment[btn_payment]
+                            <input type="text"placeholder="Transaction Password" name="transaction_password" class="form-control form-control-lg form-control"
+                                  >
+                                <button type=submit id=payment_btn_payment name=payment[btn_payment]
                                 class="btn btn-lg btn-success payment-form-row__btn btn">Withdraw</button>
                         </div>
                     </div>
@@ -293,3 +306,148 @@
     integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ=="
     data-cf-beacon='{"version":"2024.11.0","token":"0ba6880f01494148a07c3ba6978a8c03","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}'
     crossorigin="anonymous"></script>
+
+
+    <script src="https://code.jquery.com//jquery-3.3.1.min.js"></script>
+<script>
+    const tokenPrice = 135; // 1 AIRO = 135 USDT
+
+function calculateCrypto() {
+    const amount = parseFloat($('.change-amount').val());
+    const coin = $('#value_crypto_hidden').val();
+
+    if (isNaN(amount)) {
+        $('#value_crypto1').val('');
+        return;
+    }
+
+    if (amount < 5) {
+        $(".submit-btn").prop("disabled", true);
+        $('#element_error').html('Minimum withdrawal is $5').css('color', 'red');
+        $('#value_crypto1').val('');
+    } else {
+        $(".submit-btn").prop("disabled", false);
+        $('#element_error').html('');
+
+        let cryptoValue;
+        if (coin === "AIRO") {
+            cryptoValue = (amount / 135).toFixed(6); // AIRO is fixed
+        } else if (coin === "BDC") {
+            cryptoValue = (amount / bdcLiveRate).toFixed(6); // Use fetched live BDC rate
+        } else {
+            cryptoValue = amount.toFixed(2);
+        }
+
+        $('#value_crypto1').val(cryptoValue);
+    }
+}
+
+
+
+    // On amount input
+$('.change-amount').on('keyup', function () {
+    calculateCrypto();
+});
+
+// On coin selection
+$('#paymentMode').on('change', function () {
+    const selectedCoin = $(this).val();
+    $('#value_crypto_hidden').val(selectedCoin);
+    $('#selected_payment').text(selectedCoin);
+    calculateCrypto();
+});
+
+
+
+   $(document).ready(function () {
+    $('#paymentMode').val('AIRO');
+    $('#value_crypto_hidden').val('AIRO');
+    $('#selected_payment').text('AIRO');
+    calculateCrypto();
+});
+
+
+
+
+    $('.first-code-send').click(function(e) {
+           var ths = $(this);
+           
+            $(ths).html('Waiting')
+           // alert(sponsor); 
+           $.ajax({
+               type: "POST"
+               , url: "{{ route('user.send_code') }}"
+               , data: {
+                   "purpose": "Withdrawal request"
+                   , "_token": "{{ csrf_token() }}"
+               , }
+               , success: function(response) {
+                   // alert(response);      
+                   if (response) {
+                       // alert("hh");
+                    
+                       iziToast.success({
+                       message: 'Email send Successfully',
+                       position: "topRight"
+                   });
+                   $(ths).html('Send')
+                   } else {
+                       // alert("hi");
+                       iziToast.error({
+                       message: 'Error!',
+           
+            position: "topRight"
+                   });
+                   }
+               }
+           });
+       });
+       
+
+
+</script>
+        </article>
+
+
+
+
+    </main>
+
+
+    <script type="text/javascript">
+        function set_method(val) {
+            document.getElementById('method').value = val;
+        }
+    </script>
+
+    <script type="text/javascript">
+        ajax2.post({
+            "form": document.getElementById('form_with'),
+            "url": "/withdraw",
+            "el_err": 'element_error'
+        });
+    </script>
+
+<script>
+let bdcLiveRate = 0.0079; // default fallback
+
+async function fetchBDCData() {
+    try {
+        const response = await fetch('https://api.geckoterminal.com/api/v2/simple/networks/solana/token_price/CqMybyWjNGn2FGt1JY5HDUGMiCpQjAsyj44csfMUpump', {
+            headers: {
+                'Accept': 'application/json;version=20230302'
+            }
+        });
+        const data = await response.json();
+        const price = data.data.attributes.token_prices["CqMybyWjNGn2FGt1JY5HDUGMiCpQjAsyj44csfMUpump"];
+        bdcLiveRate = parseFloat(price);
+        document.getElementById('bdcPrice').innerText = `$${bdcLiveRate.toFixed(5)}`;
+    } catch (err) {
+        console.error("Failed to fetch BDC price:", err);
+    }
+}
+
+// Initial fetch and update every 10 seconds
+fetchBDCData();
+setInterval(fetchBDCData, 10000);
+</script>

@@ -50,17 +50,16 @@ class WithdrawRequest extends Controller
     {  
 
         try{
-            // dd($request);
+            dd($request);
 
              $validation =  Validator::make($request->all(), [
             'amount' => 'required|numeric|min:10',
-             'paymentMode' => 'required',    
+            'paymentMode' => 'required',    
             'transaction_password' => 'required',
         ]);
 
         if($validation->fails()) {
             Log::info($validation->getMessageBag()->first());
-
             return Redirect::back()->withErrors($validation->getMessageBag()->first())->withInput();
         }
 
