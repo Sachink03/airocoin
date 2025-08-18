@@ -15,7 +15,7 @@
                                     playsinline="">
                                     <source src=theme/static/output.webm type=video/webm>
                                 </video> -->
-                                 <img src=assets/Orangeairo.png
+                                 <img class="section-intro__video" src=assets/Orangeairo.png
                                                 alt="Alex Nowotny"> 
                              </div>
                             <div class=section-intro__right>
