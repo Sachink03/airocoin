@@ -191,7 +191,7 @@
                         <div class=mobile-navigation__footer-cell><a href=/logout
                                 class="btn btn-outline-success btn-block" data-pjax=""> Logout </a> </div>
                     </div>
-                    <div class=mobile-navigation__social><a href=https://t.me/+d3eHGMloj7AyNzA0 target=_blank
+                    <div class=mobile-navigation__social><a href=https://t.me/AiroCoin_support target=_blank
                             class="comunity-link mobile-navigation__comunity-link"><span
                                 class=comunity-link__inner><span class=comunity-link__icon-cell><svg width=36 height=36>
                                         <use xlink:href=#comunity-telegram></use>
@@ -201,7 +201,7 @@
                                     </svg> </span></span> </a>
                         <div class="social-icons-list mobile-navigation__social-icons-list">
                             <div class=social-icons-list__inner>
-                                <div class=social-icons-list__cell><a href=https://t.me/cortextrade target=_blank
+                                <div class=social-icons-list__cell><a href=https://t.me/AiroCoin_chat target=_blank
                                         class=social-icon><svg width=20 height=20>
                                             <use xlink:href=#social-telegram></use>
                                         </svg> </a> </div>
@@ -213,7 +213,7 @@
                                         target=_blank class=social-icon><svg width=20 height=20>
                                             <use xlink:href=#social-youtube></use>
                                         </svg> </a> </div>
-                                <div class=social-icons-list__cell><a href="https://x.com/cortextrade?s=21"
+                                <div class=social-icons-list__cell><a href="#"
                                         target=_blank class=social-icon><svg width=20 height=20>
                                             <use xlink:href=#social-x></use>
                                         </svg> </a> </div>
@@ -310,7 +310,7 @@
                                             </svg> </div>
                                         <div class=comunity-banner-card__content> Join Our Community </div>
                                     </div>
-                                    <div class=comunity-banner-card__footer><a href=https://t.me/+d3eHGMloj7AyNzA0
+                                    <div class=comunity-banner-card__footer><a href=https://t.me/AiroCoin_support
                                             target=_blank class=comunity-banner-card__link><span>Telegram</span> <svg
                                                 width=18 height=16>
                                                 <use xlink:href=#arrow-right></use>

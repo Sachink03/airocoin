@@ -9,7 +9,7 @@
                     <div class=container>
                         <div class=section-main-header__inner>
                             <h1 class="title-h2 section-main-header__title-h2"> Collaboration </h1>
-                            <div class=section-main-header__content> Building your own Cortex Team is the right decision
+                            <div class=section-main-header__content> Building your own AiroCoin Team is the right decision
                                 to generate high profits online. </div>
                         </div>
                     </div>
@@ -22,19 +22,19 @@
                                     <div class="sub-title color-green contents-group__sub-title"> More earnings </div>
                                     <h2 class="title-h2 contents-group__title-h2"> Opportunities that depend only on you
                                     </h2>
-                                    <div class="title-h5 contents-group__title-h5"> Additional income from the Cortex
+                                    <div class="title-h5 contents-group__title-h5"> Additional income from the AiroCoin
                                         Team can become an organic part of the earnings from investments that you placed
-                                        on the Cortex AI Trading platform. </div>
+                                        on the AiroCoin platform. </div>
                                 </div>
                             </div>
                             <div class=section-about-page__right>
                                 <div class=contents-group>
-                                    <div class=contents-group__content> Building our own network of Cortex Team
+                                    <div class=contents-group__content> Building our own network of AiroCoin Team
                                         followers is a task that is within the power of any of our registered customers
                                         who seek to maximize their financial capabilities. In addition, we provide a
                                         platform that helps every investor if they strive for a better future. </div>
                                     <div class=contents-group__content> The additional income from investing on our
-                                        platform of the your Cortex Team network followers can reach a very significant
+                                        platform of the your AiroCoin Team network followers can reach a very significant
                                         value and be comparable to the profit that you receive from a personally formed
                                         investment portfolio. </div>
                                 </div>
@@ -43,7 +43,7 @@
                     </div>
                 </section>
                 <div id=js-first>
-                    <section class="section section-leadership page-partnership__section-leadership js-scrollable">
+                    <!-- <section class="section section-leadership page-partnership__section-leadership js-scrollable">
                         <div class=container>
                             <div class="contents-group section-leadership__contents-group">
                                 <div class="sub-title color-green contents-group__sub-title"> Our best offer </div>
@@ -323,7 +323,7 @@
                                 <div class=contents-group__content> Time-tested solutions for those who want more
                                     opportunities for more income. </div>
                                 <div class=contents-group__footer><a href=auth/signup.html
-                                        class="btn btn-success btn-lg" data-pjax=""><span>Build your Cortex Team</span>
+                                        class="btn btn-success btn-lg" data-pjax=""><span>Build your AiroCoin Team</span>
                                         <svg width=18 height=16>
                                             <use xlink:href=#arrow-right></use>
                                         </svg></a> <a href=faq.html class="btn btn-outline-success btn-lg"
@@ -332,7 +332,7 @@
                                         </svg></a></div>
                             </div>
                         </div>
-                    </section>
+                    </section> -->
                     <section class="section section-steps page-partnership__section-steps js-scrollable">
                         <div class=container>
                             <div class="contents-group section-steps__contents-group">
@@ -340,7 +340,7 @@
                                 </div>
                                 <h2 class="title-h2 contents-group__title-h2"> Just need 3 steps to take </h2>
                                 <div class=contents-group__content> The platform can provide you with the right
-                                    conditions to growth and development your Cortex Team. </div>
+                                    conditions to growth and development your AiroCoin Team. </div>
                             </div>
                             <div class="main-steps-group section-steps__main-steps-group">
                                 <div class=main-steps-group__inner id=js-steps-slider>
@@ -348,10 +348,10 @@
                                         <div class="step-card main-steps-group__step-card">
                                             <div class=step-card__inner>
                                                 <div class="step-widget step-card__step-widget"> Step 1 </div>
-                                                <div class="title-h4 step-card__title-h4"> Get Cortex Account </div>
-                                                <div class=step-card__content> Create your Cortex AI Trading account by
+                                                <div class="title-h4 step-card__title-h4"> Get AiroCoin Account </div>
+                                                <div class=step-card__content> Create your AiroCoin account by
                                                     following the corresponding prompts of the system after clicking on
-                                                    the Get Cortex Account button. </div>
+                                                    the Get AiroCoin Account button. </div>
                                             </div>
                                         </div>
                                     </div>
@@ -360,7 +360,7 @@
                                             <div class=step-card__inner>
                                                 <div class="step-widget step-card__step-widget"> Step 2 </div>
                                                 <div class="title-h4 step-card__title-h4"> Start working </div>
-                                                <div class=step-card__content> Create your own Cortex Team followers
+                                                <div class=step-card__content> Create your own AiroCoin Team followers
                                                     network using social media and proprietary advertising of your own
                                                     affiliate link. </div>
                                             </div>
@@ -372,7 +372,7 @@
                                                 <div class="step-widget step-card__step-widget"> Step 3 </div>
                                                 <div class="title-h4 step-card__title-h4"> Earn income </div>
                                                 <div class=step-card__content> Start getting extra income income from
-                                                    investing on our platform of the your Cortex Team network followers
+                                                    investing on our platform of the your AiroCoin Team network followers
                                                     and ramp up your efforts. </div>
                                             </div>
                                         </div>
@@ -420,7 +420,7 @@
                         <div class=container>
                             <div class="contents-group section-affiliate__contents-group">
                                 <div class="sub-title color-green contents-group__sub-title"> What goodies </div>
-                                <h2 class="title-h2 contents-group__title-h2"> Benefits from the Cortex AI Trading </h2>
+                                <h2 class="title-h2 contents-group__title-h2"> Benefits from the AiroCoin </h2>
                             </div>
                         </div>
                         <div class=section-affiliate__group-row>
@@ -448,7 +448,7 @@
                                                             payments </div>
                                                         <div class=affiliate-advantage-card__content> Stable payments of
                                                             income derived from your activity in building an active
-                                                            network of Cortex Team followers. </div>
+                                                            network of AiroCoin Team followers. </div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -464,9 +464,9 @@
                                                     <div class=affiliate-advantage-card__right>
                                                         <div class="title-h5 affiliate-advantage-card__title-h5"> Advice
                                                             and Support </div>
-                                                        <div class=affiliate-advantage-card__content> Using the Cortex
+                                                        <div class=affiliate-advantage-card__content> Using the AiroCoin
                                                             AI Trading platform, all the possibilities of advising
-                                                            related to the construction of the Cortex Team are open to
+                                                            related to the construction of the AiroCoin Team are open to
                                                             you. </div>
                                                     </div>
                                                 </div>
@@ -485,7 +485,7 @@
                                                             Unlimited growth </div>
                                                         <div class=affiliate-advantage-card__content> Nothing will hold
                                                             back your drive to constantly grow your own network of
-                                                            Cortex Team followers. </div>
+                                                            AiroCoin Team followers. </div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -527,7 +527,7 @@
                                     </div>
                                     <div class=header-section-block__right>
                                         <div class=contents-group>
-                                            <div class=contents-group__content> The Cortex AI Trading platform is a
+                                            <div class=contents-group__content> The AiroCoin platform is a
                                                 reliable provider of online trading services and remains a careful and
                                                 effective partner in any area of our collaboration. Including in areas
                                                 that are focused on the investment profits for our customers generating.
@@ -554,7 +554,7 @@
                                                     </div>
                                                     <div class=start-help-card__content> Take advantage of advertising
                                                         products created specifically for you in the Promo section,
-                                                        which you will find in your Cortex AI Trading account. </div>
+                                                        which you will find in your AiroCoin account. </div>
                                                     <div class=start-help-card__btn-row><a href=auth/login.html
                                                             class="btn btn-outline-success btn-lg btn-xs-block"
                                                             data-pjax=""><span>Get AD products</span> <svg width=18
@@ -610,7 +610,7 @@
                                 <div class=main-banner__left>
                                     <div class="title-h3 main-banner__title-h3"> Use the best technology <br> for your
                                         own profit </div>
-                                    <div class=main-banner__btn-row><a href=auth/signup.html
+                                    <div class=main-banner__btn-row><a href=#
                                             class="btn btn-success btn-lg" data-pjax=""><span>Your technologies</span>
                                             <svg width=20 height=20>
                                                 <use xlink:href=#arrow-right></use>

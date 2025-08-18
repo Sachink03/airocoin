@@ -33,12 +33,18 @@
                             </div>
                             <div class=section-mission__right>
                                 <div class="yt-video yt-video--soon section-mission__yt-video">
-                                    <div class="yt-video__inner ">
-                                        <div class="yt-play-btn yt-video__yt-play-btn"><svg width=30 height=30
+                                     <img src=assets/aorocoinbd.png
+                                                alt="Alex Nowotny"> 
+                                    <!-- <div class="yt-video__inner ">
+                                        <div class="yt-play-btn yt-video__yt-play-btn">
+                                            <img src=theme/img/employee-5-xs.jpg
+                                                alt="Alex Nowotny"> 
+                                            <svg width=30 height=30
                                                 class=yt-play-btn__icon>
                                                 <use xlink:href=#yt-play></use>
-                                            </svg> </div>
-                                    </div>
+                                            </svg> 
+                                        </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>
@@ -569,7 +575,7 @@
                         })
 
                     </script>
-                    <section class="section section-certs page-company__section-certs js-scrollable">
+                    <!-- <section class="section section-certs page-company__section-certs js-scrollable">
                         <div class=container>
                             <div class="contents-group section-certs__contents-group">
                                 <div class="sub-title color-green contents-group__sub-title"> Company openness </div>
@@ -816,7 +822,7 @@
                                 </div>
                             </div>
                         </div>
-                    </section>
+                    </section> -->
                     <script>
                         pageInits.push(function () {
                             var $mainSlider = $('#js-team-slider');

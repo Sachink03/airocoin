@@ -221,7 +221,7 @@
                         <div class=mobile-navigation__footer-cell><a href={{route('register')}}
                                 class="btn btn-success btn-block" data-pjax=""> Signup </a> </div>
                     </div>
-                    <div class=mobile-navigation__social><a href=https://t.me/+d3eHGMloj7AyNzA0 target=_blank
+                    <div class=mobile-navigation__social><a href=https://t.me/AiroCoin_support target=_blank
                             class="comunity-link mobile-navigation__comunity-link"><span
                                 class=comunity-link__inner><span class=comunity-link__icon-cell><svg width=36 height=36>
                                         <use xlink:href=#comunity-telegram></use>
@@ -231,19 +231,19 @@
                                     </svg> </span></span> </a>
                         <div class="social-icons-list mobile-navigation__social-icons-list">
                             <div class=social-icons-list__inner>
-                                <div class=social-icons-list__cell><a href=https://t.me/cortextrade target=_blank
+                                <div class=social-icons-list__cell><a href=https://t.me/AiroCoin_support target=_blank
                                         class=social-icon><svg width=20 height=20>
                                             <use xlink:href=#social-telegram></use>
                                         </svg> </a> </div>
-                                <div class=social-icons-list__cell><a href=https://www.instagram.com/cortex_trading/
+                                <div class=social-icons-list__cell><a href=#
                                         target=_blank class=social-icon><svg width=20 height=20>
                                             <use xlink:href=#social-instagram></use>
                                         </svg> </a> </div>
-                                <div class=social-icons-list__cell><a href=https://www.youtube.com/@cortex_trade
+                                <div class=social-icons-list__cell><a href=#
                                         target=_blank class=social-icon><svg width=20 height=20>
                                             <use xlink:href=#social-youtube></use>
                                         </svg> </a> </div>
-                                <div class=social-icons-list__cell><a href="https://x.com/cortextrade?s=21"
+                                <div class=social-icons-list__cell><a href="#"
                                         target=_blank class=social-icon><svg width=20 height=20>
                                             <use xlink:href=#social-x></use>
                                         </svg> </a> </div>
@@ -323,9 +323,9 @@
                                                      <!-- <a href=blog.html
                                                     class="dropdown-item locale-dropdown__dropdown-item d-xxl-none js-link-blog"
                                                     data-pjax=""> Blog </a>  -->
-                                                    <a href={{route('contact-us')}}
+                                                    <!-- <a href={{route('contact-us')}}
                                                     class="dropdown-item locale-dropdown__dropdown-item d-xxl-none js-link-contacts"
-                                                    data-pjax=""> Contacts </a>
+                                                    data-pjax=""> Contacts </a> -->
                                                 </div>
                                         </li>
                                         <li class=menu__item><a href={{route('partners')}}

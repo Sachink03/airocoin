@@ -10,10 +10,14 @@
                     </div>
                     <div class=container>
                         <div class=section-intro__inner>
-                            <div class=section-intro__left><video class=section-intro__video autoplay loop muted
+                            <div class=section-intro__left>
+                                <!-- <video class=section-intro__video autoplay loop muted
                                     playsinline="">
                                     <source src=theme/static/output.webm type=video/webm>
-                                </video> </div>
+                                </video> -->
+                                 <img src=assets/airobannero.png
+                                                alt="Alex Nowotny"> 
+                             </div>
                             <div class=section-intro__right>
                                 <div class=intro-block>
                                     <div class=fire-widget>
@@ -42,7 +46,7 @@
                                         <div class=social-text-group__list>
                                             <div class="social-icons-list social-text-group__social-icons-list">
                                                 <div class=social-icons-list__inner>
-                                                    <div class=social-icons-list__cell><a href=https://t.me/cortextrade
+                                                    <div class=social-icons-list__cell><a href=https://t.me/AiroCoin_support
                                                             target=_blank class=social-icon><svg width=20 height=20>
                                                                 <use xlink:href=#social-telegram></use>
                                                             </svg> </a> </div>

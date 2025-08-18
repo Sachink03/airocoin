@@ -13,7 +13,7 @@
                                 <div class=section-footer-first__logo-cell>
                                     <div class=section-footer-first__logo-wrap><a href=index.html
                                             class="logo section-footer-first__logo" data-pjax=""></a> <a
-                                            href=https://t.me/+d3eHGMloj7AyNzA0 target=_blank
+                                            href=https://t.me/AiroCoin_support target=_blank
                                             class="comunity-link section-footer-first__comunity-link"><span
                                                 class=comunity-link__inner><span class=comunity-link__icon-cell><svg
                                                         width=36 height=36>
@@ -29,22 +29,22 @@
                                             Stay connected with us on social media </div>
                                         <div class="social-icons-list section-footer-first__social-icons-list">
                                             <div class=social-icons-list__inner>
-                                                <div class=social-icons-list__cell><a href=https://t.me/cortextrade
+                                                <div class=social-icons-list__cell><a href=https://t.me/AiroCoin_chat
                                                         target=_blank class=social-icon><svg width=20 height=20>
                                                             <use xlink:href=#social-telegram></use>
                                                         </svg> </a> </div>
                                                 <div class=social-icons-list__cell><a
-                                                        href=https://www.instagram.com/cortex_trading/ target=_blank
+                                                        href=# target=_blank
                                                         class=social-icon><svg width=20 height=20>
                                                             <use xlink:href=#social-instagram></use>
                                                         </svg> </a> </div>
                                                 <div class=social-icons-list__cell><a
-                                                        href=https://www.youtube.com/@cortex_trade target=_blank
+                                                        href=# target=_blank
                                                         class=social-icon><svg width=20 height=20>
                                                             <use xlink:href=#social-youtube></use>
                                                         </svg> </a> </div>
                                                 <div class=social-icons-list__cell><a
-                                                        href="https://x.com/cortextrade?s=21" target=_blank
+                                                        href="#" target=_blank
                                                         class=social-icon><svg width=20 height=20>
                                                             <use xlink:href=#social-x></use>
                                                         </svg> </a> </div>

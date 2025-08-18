@@ -20,14 +20,14 @@
                                     <div class=contacts-card__inner>
                                         <div class=contacts-card__body>
                                             <div class="title-h5 contacts-card__title-h5"> Support </div>
-                                            <div class=contacts-card__widgets><a href=https://t.me/Miles_Ashcroft
+                                            <div class=contacts-card__widgets><a href=https://t.me/AiroCoin_support
                                                     target=_blank
                                                     class="support-widget contacts-card__support-widget"><span
                                                         class="social-icon social-icon--sm support-widget__social-icon"><svg
                                                             width=16 height=16>
                                                             <use xlink:href=#social-telegram></use>
                                                         </svg> </span> <span class=support-widget__content> Telegram
-                                                        support </span></a> <a href=https://t.me/dexter_rowley
+                                                        support </span></a> <a href=https://t.me/AiroCoin_chat
                                                     target=_blank
                                                     class="support-widget contacts-card__support-widget"><span
                                                         class="social-icon social-icon--sm support-widget__social-icon"><svg
@@ -38,7 +38,7 @@
                                         </div>
                                         <div class=contacts-card__body>
                                             <div class="title-h5 contacts-card__title-h5"> Social media </div>
-                                            <div class=contacts-card__widgets><a href=https://t.me/cortextrade
+                                            <div class=contacts-card__widgets><a href=https://t.me/AiroCoin_support
                                                     target=_blank
                                                     class="support-widget contacts-card__support-widget"><span
                                                         class="social-icon social-icon--sm support-widget__social-icon"><svg
@@ -46,20 +46,20 @@
                                                             <use xlink:href=#social-telegram></use>
                                                         </svg> </span> <span class=support-widget__content> Telegram
                                                         channel </span></a> <a
-                                                    href=https://www.instagram.com/cortex_trading/ target=_blank
+                                                    href=# target=_blank
                                                     class="support-widget contacts-card__support-widget"><span
                                                         class="social-icon social-icon--sm support-widget__social-icon"><svg
                                                             width=16 height=16>
                                                             <use xlink:href=#social-instagram></use>
                                                         </svg> </span> <span class=support-widget__content> Instagram
-                                                    </span></a> <a href=https://www.youtube.com/@cortex_trade
+                                                    </span></a> <a href=#
                                                     target=_blank
                                                     class="support-widget contacts-card__support-widget"><span
                                                         class="social-icon social-icon--sm support-widget__social-icon"><svg
                                                             width=16 height=16>
                                                             <use xlink:href=#social-youtube></use>
                                                         </svg> </span> <span class=support-widget__content> YouTube
-                                                        channel </span></a> <a href="https://x.com/cortextrade?s=21"
+                                                        channel </span></a> <a href="#"
                                                     target=_blank
                                                     class="support-widget contacts-card__support-widget"><span
                                                         class="social-icon social-icon--sm support-widget__social-icon"><svg
